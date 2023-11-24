@@ -52,3 +52,10 @@ The following details how to deploy this application.
 ### Docker
 
 See detailed [cookiecutter-django Docker documentation](http://cookiecutter-django.readthedocs.io/en/latest/deployment-with-docker.html).
+
+### User Manual
+
+Dive in to user manual to navigate through uSAFIRI smoothly.
+To access the user manual, simply follow this link:
+
+[User Manual for  USAFIRI .pdf](https://github.com/Nepal-Flying-Labs/pgis-toolkit-frontend/files/13454927/User.Manual.for.USAFIRI.pdf)
